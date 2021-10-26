@@ -1,0 +1,281 @@
+2021-10-18 11:20:14.818 +08:00 [INF] Application Is Starting
+2021-10-18 11:20:16.067 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 11:20:16.069 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 11:20:16.070 +08:00 [INF] Hosting environment: Development
+2021-10-18 11:20:16.070 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 11:20:17.274 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:20:17.304 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:20:17.364 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:20:17.370 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 11:20:17.397 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2021-10-18 11:20:17.398 +08:00 [INF] Request finished in 0.7111ms 404 
+2021-10-18 11:20:17.411 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 31.435ms
+2021-10-18 11:20:17.412 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:20:17.413 +08:00 [INF] Request finished in 142.6959ms 200 application/json; charset=utf-8
+2021-10-18 11:20:34.166 +08:00 [INF] Application Is Starting
+2021-10-18 11:20:35.269 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 11:20:35.274 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 11:20:35.275 +08:00 [INF] Hosting environment: Development
+2021-10-18 11:20:35.275 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 11:20:36.392 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:20:36.420 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:20:36.472 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:20:36.477 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 11:20:36.503 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 26.1402ms
+2021-10-18 11:20:36.505 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:20:36.506 +08:00 [INF] Request finished in 117.2017ms 200 application/json; charset=utf-8
+2021-10-18 11:33:20.289 +08:00 [INF] Application Is Starting
+2021-10-18 11:33:21.596 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 11:33:21.599 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 11:33:21.599 +08:00 [INF] Hosting environment: Development
+2021-10-18 11:33:21.599 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 11:33:22.752 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:33:22.796 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:22.816 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:33:22.821 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 11:33:22.854 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 33.9704ms
+2021-10-18 11:33:22.856 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:22.858 +08:00 [INF] Request finished in 109.1949ms 200 application/json; charset=utf-8
+2021-10-18 11:33:29.805 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:33:29.807 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:29.808 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:33:29.809 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 11:33:29.809 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 1.1489ms
+2021-10-18 11:33:29.810 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:29.810 +08:00 [INF] Request finished in 5.0308ms 200 application/json; charset=utf-8
+2021-10-18 11:33:29.830 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2021-10-18 11:33:29.831 +08:00 [INF] Request finished in 1.5804ms 404 
+2021-10-18 11:33:33.273 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger  
+2021-10-18 11:33:33.275 +08:00 [INF] Request finished in 2.5172ms 301 
+2021-10-18 11:33:33.282 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html  
+2021-10-18 11:33:33.314 +08:00 [INF] Request finished in 31.999ms 200 text/html;charset=utf-8
+2021-10-18 11:33:33.323 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css  
+2021-10-18 11:33:33.363 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js  
+2021-10-18 11:33:33.363 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js  
+2021-10-18 11:33:33.420 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-10-18 11:33:33.420 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-10-18 11:33:33.420 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-10-18 11:33:33.422 +08:00 [INF] Request finished in 58.4838ms 200 application/javascript
+2021-10-18 11:33:33.422 +08:00 [INF] Request finished in 58.8466ms 200 application/javascript
+2021-10-18 11:33:33.422 +08:00 [INF] Request finished in 98.7136ms 200 text/css
+2021-10-18 11:33:33.663 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json  
+2021-10-18 11:33:33.696 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png  
+2021-10-18 11:33:33.697 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-10-18 11:33:33.697 +08:00 [INF] Request finished in 0.5046ms 200 image/png
+2021-10-18 11:33:33.699 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png  
+2021-10-18 11:33:33.699 +08:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2021-10-18 11:33:33.699 +08:00 [INF] Request finished in 0.442ms 200 image/png
+2021-10-18 11:33:33.765 +08:00 [INF] Request finished in 102.5499ms 200 application/json;charset=utf-8
+2021-10-18 11:33:45.788 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/WeatherForecast  
+2021-10-18 11:33:45.789 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:45.791 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:33:45.794 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 11:33:45.795 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 2.4308ms
+2021-10-18 11:33:45.795 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:33:45.795 +08:00 [INF] Request finished in 7.5747ms 200 application/json; charset=utf-8
+2021-10-18 11:38:43.098 +08:00 [INF] Application Is Starting
+2021-10-18 11:38:44.276 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 11:38:44.282 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 11:38:44.282 +08:00 [INF] Hosting environment: Development
+2021-10-18 11:38:44.282 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 11:38:45.496 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:38:45.538 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:38:45.558 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:40:24.952 +08:00 [INF] Application Is Starting
+2021-10-18 11:40:26.283 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 11:40:26.285 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 11:40:26.286 +08:00 [INF] Hosting environment: Development
+2021-10-18 11:40:26.286 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 11:40:27.440 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 11:40:27.489 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 11:40:27.508 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 11:40:55.940 +08:00 [INF] Accessed Weather Forecast
+2021-10-18 11:40:58.968 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 12:05:51.955 +08:00 [INF] Application Is Starting
+2021-10-18 12:05:53.252 +08:00 [INF] Now listening on: http://localhost:5000
+2021-10-18 12:05:53.255 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-18 12:05:53.255 +08:00 [INF] Hosting environment: Development
+2021-10-18 12:05:53.255 +08:00 [INF] Content root path: /Users/development/Projects/HotelListing/HotelListing
+2021-10-18 12:05:54.581 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2021-10-18 12:05:54.625 +08:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 12:05:54.645 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-10-18 14:00:28.573 +08:00 [INF] Accessed Weather Forecast
+2021-10-18 14:00:28.615 +08:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-10-18 14:00:28.703 +08:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 5604670.9974ms
+2021-10-18 14:00:28.707 +08:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-10-18 14:00:28.717 +08:00 [INF] Request finished in 5604761.1512ms 200 application/json; charset=utf-8
+2021-10-18 14:06:04.708 +08:00 [INF] Application Is Starting
+2021-10-18 14:06:05.565 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:06:50.771 +08:00 [INF] Application Is Starting
+2021-10-18 14:06:51.528 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:14:40.924 +08:00 [INF] Application Is Starting
+2021-10-18 14:14:41.686 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:15:00.006 +08:00 [INF] Application Is Starting
+2021-10-18 14:15:00.801 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:15:24.974 +08:00 [INF] Application Is Starting
+2021-10-18 14:15:25.715 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:16:16.903 +08:00 [INF] Application Is Starting
+2021-10-18 14:16:17.532 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
+2021-10-18 14:16:34.331 +08:00 [INF] Application Is Starting
+2021-10-18 14:16:35.071 +08:00 [FTL] Application Failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '{' is an invalid start of a property name. Expected a '"'. LineNumber: 9 | BytePositionInLine: 4.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, Utf8JsonReader reader, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/development/Projects/HotelListing/HotelListing/Program.cs:line 27
